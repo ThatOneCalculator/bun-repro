@@ -1,6 +1,5 @@
 {
-  "name": "bun-repro",
-  "module": "index.ts",
+  "name": "bun-repro-10358",
   "private": true,
   "type": "module",
   "devDependencies": {
